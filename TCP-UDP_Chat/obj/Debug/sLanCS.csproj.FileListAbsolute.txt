@@ -1,0 +1,11 @@
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\bin\Debug\sLanCS.exe.config
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\bin\Debug\sLanCS.exe
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\bin\Debug\sLanCS.pdb
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.csprojResolveAssemblyReference.cache
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.Form1.resources
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.csproj.GenerateResource.Cache
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.exe
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.pdb
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.Form2.resources
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.Form3.resources
+F:\Tutoriale+Książki+Podręczniki\PK\5seme\to\1\to1\sLanCS\obj\Debug\sLanCS.Properties.Resources.resources
