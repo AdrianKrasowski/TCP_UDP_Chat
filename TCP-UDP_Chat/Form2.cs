@@ -255,5 +255,10 @@ namespace sLanCS
             richTextBox1.ScrollToCaret();
             broadcast(Convert.ToString(textBox1.Text), "Master", true);
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -76,7 +76,7 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.BackColor = System.Drawing.Color.Black;
+            this.richTextBox1.BackColor = System.Drawing.Color.Gainsboro;
             this.richTextBox1.ForeColor = System.Drawing.Color.DeepSkyBlue;
             this.richTextBox1.Location = new System.Drawing.Point(8, 85);
             this.richTextBox1.Name = "richTextBox1";
@@ -109,7 +109,6 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(190, 20);
             this.textBox3.TabIndex = 7;
-            this.textBox3.Text = "MC-Zombie";
             // 
             // button2
             // 

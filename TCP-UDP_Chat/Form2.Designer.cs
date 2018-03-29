@@ -40,7 +40,7 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.BackColor = System.Drawing.Color.Black;
+            this.richTextBox1.BackColor = System.Drawing.Color.Gainsboro;
             this.richTextBox1.ForeColor = System.Drawing.Color.Red;
             this.richTextBox1.Location = new System.Drawing.Point(12, 35);
             this.richTextBox1.Name = "richTextBox1";
@@ -81,10 +81,11 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(237, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(81, 13);
+            this.label1.Size = new System.Drawing.Size(68, 13);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Zombies online:";
+            this.label1.Text = "Users online:";
             this.label1.Visible = false;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label3
             // 
@@ -102,7 +103,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(216, 20);
             this.textBox1.TabIndex = 9;
-            this.textBox1.Text = "mc 1 10 5000";
             // 
             // button2
             // 
