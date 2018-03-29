@@ -14,7 +14,7 @@ namespace sLanCS
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            Form1 f1 = new Form1();
+            Main f1 = new Main();
             Application.Run(f1);
         }
     }

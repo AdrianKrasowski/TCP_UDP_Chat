@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace sLanCS
 {
-    public partial class Form1 : Form
+    public partial class Main : Form
     {
         // TODO: Usunac wzorce
         Factory f = new sLanCSFactory();
 
-        public Form1()
+        public Main()
         {
             InitializeComponent();
         }
